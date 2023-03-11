@@ -4,7 +4,7 @@ import numpy as np
 
 
 
-st.title('Netflix app')
+st.title('A00829066_Oscar Salazar_Netflix app')
 
 DATE_COLUMN = 'released'
 DATA_URL = ('movies.csv')
